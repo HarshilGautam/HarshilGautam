@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshil Gautam</h1>
-<h3 align="center">CSE UNDERGRAD KIIT 2025</h3>
+<h3 align="center">Programmer</h3>
 
 - 🌱 I’m currently learning **Web development,Android development**
 
